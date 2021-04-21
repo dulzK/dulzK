@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dulzK
-- 👀 my name is abdulbasit kasim
-- 🌱 I’m currently working towards a degree in computer science
-- 💞️ I’m looking forward to completely, the projects in this repo
+- 👋 Hi, I’m @dulzK, my reals name is abdulbasit kasim
+- 🌱 i am recent graduate from lakehea university with a degree in honours of computer science
+- 💞️ I’m looking forward to completing, the projects in this repo and well 
 - 📫 How to reach me at my email a
 
 <!---
